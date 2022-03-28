@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Ahora Ahorro!</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="tarjeta">Tarjeta</string>
+    <string name="gasto">Gasto</string>
+    <string name="agregar">Agregar</string>
+    <string name="arqueo">Arqueo</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="editar">Editar</string>
+    <string name="No">No</string>
+    <string name="Si">Sí</string>
+    <string name="privacidad">Mostar ahorros en la pantalla principal</string>
+    <string name="Guardar">Guardar</string>
+    <string name="meta">Meta</string>
+    <string name="ingreso">Ingreso</string>
+    <string name="presupuesto">Presupuesto</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="agregadoRapido">Agregado rápido</string>
+    <string name="agregadoPersonalizado">Agregado personalizado</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="notas">Notas</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="money_sign">$</string>
+    <string name="metodo">Efectivo o tarjeta</string>
+    <string name="categoria">Categoría</string>
+    <string name="nota_ejemplo">Café mediano</string>
+    <string name="misahorrosen">Mis ahorros en...</string>
+    <string name="total">Total</string>
+    <string name="plan">Plan</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="meta2">META</string>
+    <string name="iniciastecon">Iniciaste con</string>
+
+    <string-array name="categorias">
+        <item>Otros</item>
+        <item>Comida</item>
+        <item>Transporte</item>
+        <item>Escenciales</item>
+        <item>Ingresos</item>
+        <item>Innecesarios</item>
+        <item>Imprevistos</item>
+        <item>Renta</item>
+        <item>Luz</item>
+        <item>Gas</item>
+        <item>Regalo</item>
+    </string-array>
+
+    <string-array name="periodicidad">
+        <item>Diario</item>
+        <item>Semanal</item>
+        <item>Quincenal</item>
+        <item>Mensual</item>
+    </string-array>
+</resources>
